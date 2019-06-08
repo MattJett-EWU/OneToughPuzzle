@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Locations\**" />
+    <EmbeddedResource Remove="Locations\**" />
+    <None Remove="Locations\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="PuzzleLocation.cs" />
+  </ItemGroup>
+
+</Project>

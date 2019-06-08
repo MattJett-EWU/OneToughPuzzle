@@ -1,0 +1,11 @@
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS6 - One Tough Puzzle\OneToughPuzzle\obj\Debug\netcoreapp2.2\OneToughPuzzle.csprojAssemblyReference.cache
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS6 - One Tough Puzzle\OneToughPuzzle\obj\Debug\netcoreapp2.2\OneToughPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS6 - One Tough Puzzle\OneToughPuzzle\obj\Debug\netcoreapp2.2\OneToughPuzzle.AssemblyInfoInputs.cache
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS6 - One Tough Puzzle\OneToughPuzzle\obj\Debug\netcoreapp2.2\OneToughPuzzle.AssemblyInfo.cs
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS6 - One Tough Puzzle\OneToughPuzzle\bin\Debug\netcoreapp2.2\OneToughPuzzle.deps.json
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS6 - One Tough Puzzle\OneToughPuzzle\bin\Debug\netcoreapp2.2\OneToughPuzzle.runtimeconfig.json
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS6 - One Tough Puzzle\OneToughPuzzle\bin\Debug\netcoreapp2.2\OneToughPuzzle.runtimeconfig.dev.json
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS6 - One Tough Puzzle\OneToughPuzzle\bin\Debug\netcoreapp2.2\OneToughPuzzle.dll
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS6 - One Tough Puzzle\OneToughPuzzle\bin\Debug\netcoreapp2.2\OneToughPuzzle.pdb
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS6 - One Tough Puzzle\OneToughPuzzle\obj\Debug\netcoreapp2.2\OneToughPuzzle.dll
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS6 - One Tough Puzzle\OneToughPuzzle\obj\Debug\netcoreapp2.2\OneToughPuzzle.pdb
